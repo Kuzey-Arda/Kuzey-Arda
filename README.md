@@ -30,5 +30,6 @@ I am always open to learning new information and sharing what I learn 🙌
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c#&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-316192?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-316192?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-ED8B00?style=for-the-badge&logo=rust&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
