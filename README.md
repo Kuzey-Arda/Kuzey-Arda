@@ -6,7 +6,7 @@
 
 ---
 
-##👨‍💻 About me
+## 👨‍💻 About me
 I am 15 years old. I live in Antalya. I am a student at Hacı Malike Mehmet Bileydi Anatolian High School and I am also a software developer. 🎓
 
 Since 2020, I have been interested in software and I am improving myself more and more every day in this field 🚀
