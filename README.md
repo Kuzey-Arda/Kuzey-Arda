@@ -1,6 +1,6 @@
 <h1 align="center">Hello! 👋 I'm Kuzey Arda KARAOĞLU 👨‍💻</h1>
 <p align="center">
-  <b>Computer Engineer | High School Student</b><br/>
+  <b>Software Developer | High School Student</b><br/>
   <i>Always learning, building, and exploring.</i>
 </p>
 
