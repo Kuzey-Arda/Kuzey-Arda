@@ -24,7 +24,7 @@ I am always open to learning new information and sharing what I have learned ðŸ™
 
 ---
 
-## ðŸ§° Languages & Tools
+## ðŸ§° Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
@@ -32,5 +32,17 @@ I am always open to learning new information and sharing what I have learned ðŸ™
 ![C++](https://img.shields.io/badge/C++-316192?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-316192?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-ED8B00?style=for-the-badge&logo=rust&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-ED8B00?style=for-the-badge&logo=zig&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## ðŸ§° Tools
+
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=vscode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/NetBeans_IDE-339933?style=for-the-badge&logoColor=white)
+![Qt Creator](https://img.shields.io/badge/Qt_Creator-4EA94B?style=for-the-badge&logo=qt&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%2320232a?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot_Engine-007ACC?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-38B2AC?style=for-the-badge&logo=arduino&logoColor=white)
 
